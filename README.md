@@ -38,6 +38,22 @@ class aboutme:
   <img align="center" alt="pandas" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"/>
 </div>
 
+## 📑 Certificados
+<ul>
+  <li><a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization by DeepLearning.ai</a> @ Coursera</li>
+  <ul>
+    <li><a href="https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning">Neural Networks and Deep Learning</a></li>
+    <li><a href="https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning">Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization</a></li>
+    <li><a href="https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning">Structuring Machine Learning Projects</a></li>
+    <li><a href="https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning">Convolutional Neural Networks</a></li>
+    <li><a href="https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning">Sequence Models</a></li>
+  </ul>
+  <li><a href="https://curso.mariofilho.com/">Como criar um solução completa de Data Science</a></li>
+  <li><a href="https://www.coursera.org/learn/machine-learning">Machine Learning by Stanford</a> @ Coursera</li>
+  <li><a href="https://somostera.com/cursos/data-science-machine-learning">Bootcamp Data Science & Machine Learning for Bussiness</a> @ Somos Tera</li>
+  <li><a href="https://www.datacamp.com/tracks/data-scientist-with-python">Data Scientist with Python Track</a> @ Data Camp</li>
+</ul>
+
 ## 🚧 Projetos
 
 <div align="center">
